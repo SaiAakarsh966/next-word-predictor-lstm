@@ -23,11 +23,3 @@ This is an educational project demonstrating a basic next-word prediction workfl
 - **Keras text preprocessing** — tokenization, sequence padding, and categorical encoding
 
 The notebook also imports **pandas**, though it is not needed for the model workflow.
-
-## How to run
-
-1. Install Python 3 and Jupyter Notebook, or open the notebook in Kaggle.
-2. Install the required packages if they are not already available:
-
-   ```bash
-   pip install jupyter tensorflow numpy pandas
